@@ -1,4 +1,8 @@
-boby {
-    color:blueviolet;
-    background: yellowgreen;
+body {
+    color:black;
+    background:
+    beige;
+}
+header{
+     border-bottom: solid 2px orange;
 }
